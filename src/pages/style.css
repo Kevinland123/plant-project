@@ -1,0 +1,14 @@
+.backdrop-home {
+    height: 500px;
+    background-image: url(/src/assets/plant-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.data-text {
+    padding: 12px;
+    background-color:lightgray;
+    width: 300px;
+    margin-left: 32px;
+    margin-top: 16px;
+}
